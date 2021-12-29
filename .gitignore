@@ -1,0 +1,11 @@
+inst/doc
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_site/
+.sass-cache/
+.gitignore~
+.DS_Store
+Gemfile.lock
+vendor/
