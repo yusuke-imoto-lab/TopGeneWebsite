@@ -3,16 +3,16 @@
 @charset "utf-8";
 
 /* path to glyphicons */
-//$icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
+$icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
 
 /* custom variable */
 // $body-bg: red;
 
-@import "variables";
-@import "bootswatch";
+//@import "variables";
+//@import "bootswatch";
 
 /* any style customization must be before the bootstrap import */
-@import "bootstrap";
+//@import "bootstrap";
 
 /* landing page styles */
 .jumbotron {
