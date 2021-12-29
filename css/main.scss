@@ -12,7 +12,7 @@ $icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
 //@import "bootswatch";
 
 /* any style customization must be before the bootstrap import */
-//@import "bootstrap";
+@import "bootstrap";
 
 /* landing page styles */
 .jumbotron {
