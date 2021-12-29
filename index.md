@@ -20,7 +20,7 @@ TopGene is
       <div class="text-center">
 <div markdown="1">
 
-[![RECODE](/images/recode.jpg){:height="300" width="300"}](RECODE)
+[![RECODE](./images/recode.jpg){:height="300" width="300"}](RECODE)
         
 ## [RECODE](RECODE)
 **Re**solution of **c**urse **o**f **d**im**e**nsionality in **s**ingle-**c**ell data analysis (scRECODE) is a noire reduction method for single-cell sequencing data. 
@@ -35,7 +35,7 @@ TopGene is
       <div class="text-center">
 <div markdown="1">
 
-[![V-Mapper](/images/vmapper.jpg){:height="300" width="300"}](V-Mapper)
+[![V-Mapper](./images/vmapper.jpg){:height="300" width="300"}](V-Mapper)
 
 ## [V-Mapper](V-Mapper)
 
@@ -66,7 +66,7 @@ V-Mapper description.
     <div class="col-md-5 col-md-pull-7">
 
 <div markdown="1">
-[![PickUp1](/images/pickup1.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](V-Mapper)
+[![PickUp1](./images/pickup1.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](V-Mapper)
 </div>
 
     </div>
@@ -88,7 +88,7 @@ Many researchers are using ....
     </div>
     <div class="col-md-5">
 <div markdown="1">
-[![PickUp2](/images/pickup2.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](RECODE)
+[![PickUp2](./images/pickup2.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](RECODE)
 </div>
     </div>
   </div>
