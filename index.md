@@ -54,8 +54,9 @@ Topological structure analysis in cell differetiation.
   
   <div class="row featurette">
     <div class="col-md-7 col-md-push-5">
-
 <div markdown="1">
+
+<!-- 
 ## [PickUp1](V-Mapper)
 
 {:.lead}
@@ -93,7 +94,7 @@ Many researchers are using ....
 </div>
     </div>
   </div>
-  
+-->
   
   <hr class="featurette-divider">
   
