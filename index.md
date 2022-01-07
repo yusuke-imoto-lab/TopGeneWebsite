@@ -8,7 +8,7 @@
 # TopGene
 Single-cell Data Analysis Project
 
-###### [&copy ASHBi, Kyoto University.](https://ashbi.kyoto-u.ac.jp/)
+###### [© ASHBi, Kyoto University.](https://ashbi.kyoto-u.ac.jp/){:target="_blank"}
 </div>
       <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/docs/introduction" role="button">Get started&raquo;</a></p>
     </div>
