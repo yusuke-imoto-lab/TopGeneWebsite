@@ -6,9 +6,9 @@
     <div class="text-center">
 <div markdown="1">
 # TopGene
-Single-cell data analysis softoware packeges
+Single-cell data analysis packeges
 
-######©ASHBi, Kyoto University. 
+###### ©ASHBi, Kyoto University. 
 </div>
       <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/docs/introduction" role="button">Get started&raquo;</a></p>
     </div>
