@@ -7,7 +7,8 @@
 <div markdown="1">
 # TopGene
 Single-cell data analysis softoware packeges
-© ASHBi, Kyoto University. 
+
+######©ASHBi, Kyoto University. 
 </div>
       <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/docs/introduction" role="button">Get started&raquo;</a></p>
     </div>
@@ -24,7 +25,7 @@ Single-cell data analysis softoware packeges
 [![RECODE](./images/recode.jpg){:height="300" width="300"}](RECODE)
         
 ## [RECODE](RECODE)
-**Re**solution of **c**urse **o**f **d**im**e**nsionality in **s**ingle-**c**ell data analysis (scRECODE) is a noire reduction method for single-cell sequencing data. 
+Noise reduction method for single-cell sequencing data. 
 
 </div>
         <p><a class="btn btn-default" href="{{ site.baseurl }}/RECODE" role="button">View details &raquo;</a></p>
@@ -39,8 +40,7 @@ Single-cell data analysis softoware packeges
 [![V-Mapper](./images/vmapper.jpg){:height="300" width="300"}](V-Mapper)
 
 ## [V-Mapper](V-Mapper)
-
-V-Mapper description.
+Topological structure analysis in cell differetiation. 
 
 </div>
         <p><a class="btn btn-default" href="{{ site.baseurl }}/V-Mapper" role="button">View details &raquo;</a></p>        
