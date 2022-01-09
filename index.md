@@ -40,7 +40,7 @@ Noise reduction method for single-cell sequencing data.
 [![V-Mapper](./images/vmapper.jpg){:height="300" width="300"}](V-Mapper)
 
 ## [V-Mapper](V-Mapper)
-Topological trajectory inference method. 
+Topological trajectory inference method for cell differentiation. 
 
 </div>
         <p><a class="btn btn-default" href="{{ site.baseurl }}/V-Mapper" role="button">View details &raquo;</a></p>        
