@@ -29,8 +29,10 @@ tags: [manual]
 
 ## Getting Help
 
-Questions about Monocle 3 should be posted on our Google Group.
+<!-- 
+Questions about should be posted on our Google Group.
 Please do not email technical questions to Monocle contributors directly.
+-->
 
 If you believe you have identified a bug in our code or in this website, please submit a bug report with all of the requested information on our [Github Issues page](https://github.com/yusuke-imoto-lab/RECODE/issues).
 

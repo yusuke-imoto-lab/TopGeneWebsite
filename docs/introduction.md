@@ -29,13 +29,18 @@ tags: [manual]
 
 <div markdown="1">
 
-## Introduction
+## TopGene Project
+This project is a single cell data analysis project launched at ASHBi, Kyoto University. 
+This project provids novel data analysis methods for large-scale single cell data such as scRNA-seq and scATAC-seq data. 
+The TopGene softwares can reviel new biological insights with single cell resolutions. 
 
-**Re**solution of **c**urse **o**f **d**im**e**nsionality in **s**ingle-**c**ell data analysis (scRECODE) is a noire reduction method for single-cell sequencing data. 
+## RECODE
 
+**Re**solution of **c**urse **o**f **d**im**e**nsionality (RECODE) is a noise reduction method for single-cell sequencing data. 
+<!-- 
 RECODE can help you perform three main types of analysis:
  - <strong>AAAA, BBB, CC.</strong>
-
+-->
 
       
 </div>

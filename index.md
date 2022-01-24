@@ -6,7 +6,7 @@
     <div class="text-center">
 <div markdown="1">
 # TopGene
-Single-cell Data Analysis Project
+Single Cell Data Analysis Project
 
 ###### [© ASHBi, Kyoto University.](https://ashbi.kyoto-u.ac.jp/){:target="_blank"}
 </div>

@@ -33,13 +33,13 @@ tags: [manual]
 <div markdown="1">
 
 ## Installation
-To install scRECODE package, use `pip` as follows:
+To install RECODE package, use `pip` as follows:
 
 ```bash
 $ pip install screcode
 ```
 
-To use scRECODE, `import screcode`.
+To use RECODE, `import screcode`.
 
 ```python
 import screcode
