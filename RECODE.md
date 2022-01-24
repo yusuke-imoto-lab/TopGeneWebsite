@@ -9,20 +9,20 @@ title: 'RECODE'
 <div markdown="1">
 
 # RECODE
-**Re**solution of **c**urse **o**f **d**im**e**nsionality in **s**ingle-**c**ell data analysis (scRECODE) is a noire reduction method for single-cell sequencing data. 
+**Re**solution of **c**urse **o**f **d**im**e**nsionality (RECODE) is a noise reduction method for single-cell sequencing data. 
 
 [Github Project](https://github.com/yusuke-imoto-lab/screcode)
 
 [Sphinx Document](https://yusuke-imoto-lab.github.io/RECODE/index.html)
 
 ## Installation
-To install scRECODE package, use `pip` as follows:
+To install RECODE package, use `pip` as follows:
 
 ```bash
 $ pip install screcode
 ```
 
-To use scRECODE, `import screcode`.
+To use RECODE, `import screcode`.
 
 ```python
 import screcode
