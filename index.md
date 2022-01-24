@@ -22,7 +22,7 @@ Single-cell Data Analysis Project
       <div class="text-center">
 <div markdown="1">
 
-[![RECODE](./images/recode.jpg){:height="300" width="300"}](RECODE)
+[![RECODE](./images/image_RECODE.jpg){:height="300" width="300"}](RECODE)
         
 ## [RECODE](RECODE)
 Noise reduction method for single-cell sequencing data. 
@@ -37,7 +37,7 @@ Noise reduction method for single-cell sequencing data.
       <div class="text-center">
 <div markdown="1">
 
-[![V-Mapper](./images/vmapper.jpg){:height="300" width="300"}](V-Mapper)
+[![V-Mapper](./images/image_VMapper.png){:height="300" width="300"}](V-Mapper)
 
 ## [V-Mapper](V-Mapper)
 Topological trajectory inference method for cell differentiation. 
