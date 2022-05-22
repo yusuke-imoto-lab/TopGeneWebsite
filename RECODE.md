@@ -20,9 +20,9 @@ RECODE (**Re**solution of **c**urse **o**f **d**im**e**nsionality) is a noise re
 
 The preprint is available [here](https://doi.org/10.1101/2022.05.02.490246).
 
-<hr class="featurette-divider" style="border:0;border-top:1px">
+<hr style="border:0;border-top:1px">
 
-<hr class="featurette-divider" style="border:0;border-top:2px">
+<hr style="border:0;border-top:2px">
 
 ## Python code
 
