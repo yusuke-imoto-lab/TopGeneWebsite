@@ -16,8 +16,7 @@ RECODE (**Re**solution of **c**urse **o**f **d**im**e**nsionality) is a noise re
 [Sphinx Document](https://yusuke-imoto-lab.github.io/RECODE/index.html)
 
 
-
-<div style="text-align:left"><img style="width:100%; height: auto" src="https://github.com/yusuke-imoto-lab/RECODE/blob/main/images/RECODE_procedure.jpg"/></div>
+<div style="text-align:left"><img style="width:100%; height: auto" src="/images/RECODE_procedure.jpg"/></div>
 
 The preprint is available [here](https://doi.org/10.1101/2022.05.02.490246).
 
