@@ -9,7 +9,7 @@ title: 'RECODE'
 <div markdown="1">
 
 # RECODE
-**Re**solution of **c**urse **o**f **d**im**e**nsionality (RECODE) is a noise reduction method for single-cell sequencing data. 
+RECODE (**Re**solution of **c**urse **o**f **d**im**e**nsionality) is a noise reduction method for single-cell sequencing data. 
 
 [Github Project](https://github.com/yusuke-imoto-lab/screcode)
 
