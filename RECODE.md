@@ -93,7 +93,7 @@ For a detailed analysis, please see below:
 
 Windows (exe) and MAC OS (dmg) applications are avairable.
 
-<div style="text-align:left"><img style="width:100%; height: auto" src="https://github.com/yusuke-imoto-lab/RECODE/blob/main/images/RECODE_GUI.jpg"/></div>
+<div style="text-align:left"><img style="width:100%; height: auto" src="/images/RECODE_GUI.jpg"/></div>
 
 <!-- ## Installation
 To install RECODE package, use `pip` as follows:
