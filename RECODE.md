@@ -22,6 +22,8 @@ The preprint is available [here](https://doi.org/10.1101/2022.05.02.490246).
 
 <hr class="featurette-divider" style="border:0;border-top:1px">
 
+<hr class="featurette-divider" style="border:0;border-top:2px">
+
 ## Python code
 
 ### Installation
