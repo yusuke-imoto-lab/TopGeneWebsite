@@ -45,7 +45,7 @@ $ pip install screcode
 * scipy
 * scikit-learn
 
-<hr class="featurette-divider" style="border:0;border-top:1px">
+<hr style="border:0;border-top:2px">
 
 ## R code
 
@@ -87,7 +87,7 @@ For a detailed analysis, please see below:
 
 [Tutorial (Run, QC, Clustering, Annotating etc.)](https://yusukeimoto.github.io/images/RECODE_R_Tutorials/Run_RECODE_on_R_example.html)
 
-<hr class="featurette-divider" style="border:0;border-top:1px">
+<hr style="border:0;border-top:2px">
 
 ## Application
 
@@ -97,24 +97,6 @@ Windows (exe) and MAC OS (dmg) applications are avairable.
 
 <div style="text-align:left"><img style="width:50%; height: auto" src="/images/RECODE_GUI.jpg"/></div>
 
-<!-- ## Installation
-To install RECODE package, use `pip` as follows:
-
-```bash
-$ pip install screcode
-```
-
-To use RECODE, `import screcode`.
-
-```python
-import screcode
-```
-
-## Requirements
-* Python3
-* numpy
-* scipy
-* scikit-learn-->
 </div>
 </div>
 </div> 
