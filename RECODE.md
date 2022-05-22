@@ -15,7 +15,7 @@ RECODE (**Re**solution of **c**urse **o**f **d**im**e**nsionality) is a noise re
 
 [Sphinx Document](https://yusuke-imoto-lab.github.io/RECODE/index.html)
 
-<a class="center"><img width=1000 class="media-object" src="{{ "/images/RECODE_procedure.jpg"| relative_url }}"></a>
+<a class="center"><img style="width:80%; height: auto"  class="media-object" src="{{ "/images/RECODE_procedure.jpg"| relative_url }}"></a>
 <!-- <div style="text-align:left"><img style="width:100%; height: auto" src="{{ "/images/RECODE_procedure.jpg"| relative_url }}"/></div> -->
 
 The preprint is available [here](https://doi.org/10.1101/2022.05.02.490246).
@@ -93,7 +93,7 @@ For a detailed analysis, please see below:
 
 Windows (exe) and MAC OS (dmg) applications are avairable.
 
-<div style="text-align:left"><img style="width:100%; height: auto" src="/images/RECODE_GUI.jpg"/></div>
+<div style="text-align:left"><img style="width:50%; height: auto" src="/images/RECODE_GUI.jpg"/></div>
 
 <!-- ## Installation
 To install RECODE package, use `pip` as follows:
