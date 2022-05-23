@@ -35,6 +35,18 @@ Single Cell Data Analysis Project
 
 <div class="container">
   <div class="row">    
+    <div class="col-md-12">
+      <div class="text-left">
+<div markdown="1">
+
+<div style="text-align:center;">
+  <font size="4">
+    Softwares
+  </font>
+</div>
+
+<div class="container">
+  <div class="row">    
     <div class="col-md-6">
       <div class="text-center">
 <div markdown="1">
