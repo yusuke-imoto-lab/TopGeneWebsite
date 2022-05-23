@@ -41,7 +41,7 @@ Single Cell Data Analysis Project
 
 <div style="text-align:center;">
   <font size="4">
-    Softwares
+    <b>Softwares</b>
   </font>
 </div>
 
