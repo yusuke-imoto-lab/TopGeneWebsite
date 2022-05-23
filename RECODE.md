@@ -20,9 +20,7 @@ RECODE (**Re**solution of **c**urse **o**f **d**im**e**nsionality) is a noise re
 
 The preprint is available [here](https://doi.org/10.1101/2022.05.02.490246).
 
-<hr style="border:0;border-top:1px">
-
-<hr style="border:0;border-top:2px">
+---
 
 ## Python code
 
@@ -45,7 +43,7 @@ $ pip install screcode
 * scipy
 * scikit-learn
 
-<hr style="border:0;border-top:2px">
+---
 
 ## R code
 
@@ -87,7 +85,7 @@ For a detailed analysis, please see below:
 
 [Tutorial (Run, QC, Clustering, Annotating etc.)](https://yusukeimoto.github.io/images/RECODE_R_Tutorials/Run_RECODE_on_R_example.html)
 
-<hr style="border:0;border-top:2px">
+---
 
 ## Application
 
