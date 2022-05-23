@@ -22,9 +22,11 @@ Single Cell Data Analysis Project
 <div markdown="1">
 
 <div style="text-align:center;">
-  TopGene is a single-cell data analysis project launched at ASHBi, Kyoto University. 
-  This project provids novel data analysis methods for large-scale single cell data such as scRNA-seq and scATAC-seq data. 
-  The TopGene softwares can reviel new biological insights with single cell resolutions. 
+  <font size="5">
+    TopGene is a single-cell data analysis project launched at ASHBi, Kyoto University. 
+    This project provids novel data analysis methods for large-scale single cell data such as scRNA-seq and scATAC-seq data. 
+    The TopGene softwares can reviel new biological insights with single cell resolutions. 
+  </font>
 </div>
 
 <div class="container">
