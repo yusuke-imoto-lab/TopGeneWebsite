@@ -7,8 +7,9 @@
       <div markdown="1">
       # TopGene
       Single Cell Data Analysis Project
-      ###### [© ASHBi, Kyoto University.](https://ashbi.kyoto-u.ac.jp/){:target="_blank"}
-      </div>
+      
+###### [© ASHBi, Kyoto University.](https://ashbi.kyoto-u.ac.jp/){:target="_blank"}
+</div>
       <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/docs/introduction" role="button">Get started&raquo;</a></p>
     </div>
   </div>
