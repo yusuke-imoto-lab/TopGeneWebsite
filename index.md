@@ -18,7 +18,7 @@ Single Cell Data Analysis Project
 <div class="container">
   <!-- Example row of columns -->
   <div class="row">    
-    <div class="col-md-12">
+    <div class="col-md-10">
       <div class="text-left">
 <div markdown="1">
 
