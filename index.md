@@ -19,7 +19,7 @@ Single Cell Data Analysis Project
   <div class="row">    
     <div class="col-md-12">
       <div class="text-left">
-        <div markdown="1">
+<div markdown="1">
 
 <div style="text-align:center;">
   TopGene is a single-cell data analysis project launched at ASHBi, Kyoto University. 
@@ -67,45 +67,6 @@ Topological trajectory inference method for cell differentiation.
     <div class="col-md-7 col-md-push-5">
 <div markdown="1">
 
-<!-- 
-## [PickUp1](V-Mapper)
-
-{:.lead}
-このようなことができます。
-
-</div>
-
-    </div>
-    <div class="col-md-5 col-md-pull-7">
-
-<div markdown="1">
-[![PickUp1](./images/pickup1.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](V-Mapper)
-</div>
-
-    </div>
-  </div>
-
-  
-  
-  <hr class="featurette-divider">
-  
-  <div class="row featurette">
-    <div class="col-md-7">
-<div markdown="1">
-## [PickUp2](RECODE)
-
-{:.lead}
-Many researchers are using .... 
-
-</div>
-    </div>
-    <div class="col-md-5">
-<div markdown="1">
-[![PickUp2](./images/pickup2.jpg){:height="300" width="300" class="featurette-image img-responsive center-block"}](RECODE)
-</div>
-    </div>
-  </div>
--->
   
   <hr class="featurette-divider">
   
